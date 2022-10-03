@@ -654,3 +654,12 @@ hr {
     display: flex;
     justify-content: space-between;
 }
+
+/* Works */
+.works{
+    display: flex;
+}
+
+.works__col{
+    flex: 1 1 0;
+}
